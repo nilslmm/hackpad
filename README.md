@@ -2,14 +2,14 @@
 
 
 CAD model:
-![Full case]("https://github.com/nilslmm/hackpad/blob/main/Screenshot2025-12-03 210528.png?raw=true")
+![Full case]("https://github.com/nilslmm/hackpad/blob/main/Screenshot2025-12-03210528.png?raw=true")
 
 Schematics:
-![schematics]("https://github.com/nilslmm/hackpad/blob/main/Screenshot2025-12-03 210551.png?raw=true")
+![schematics]("https://github.com/nilslmm/hackpad/blob/main/Screenshot2025-12-03210551.png?raw=true")
 
 PCB:
-![layout]("https://github.com/nilslmm/hackpad/blob/main/Screenshot2025-12-03 210607.png?raw=true")
-![3d]("https://github.com/nilslmm/hackpad/blob/main/Screenshot2025-12-03 210639.png?raw=true")
+![layout]("https://github.com/nilslmm/hackpad/blob/main/Screenshot2025-12-03210607.png?raw=true")
+![3d]("https://github.com/nilslmm/hackpad/blob/main/Screenshot2025-12-03210639.png?raw=true")
 
 
 BOM:
