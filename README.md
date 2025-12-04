@@ -2,7 +2,7 @@
 
 
 CAD model:
-![Full case](https://github.com/nilslmm/hackpad/blob/main/pics/Screenshot2025-12-03210528.png?raw=true)
+![Full case](https://github.com/nilslmm/hackpad/blob/main/pics/Screenshot2025-12-04184748.png?raw=true)
 
 Schematics:
 ![schematics](https://github.com/nilslmm/hackpad/blob/main/pics/Screenshot2025-12-03210551.png?raw=true)
